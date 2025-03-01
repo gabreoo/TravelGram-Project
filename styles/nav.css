@@ -3,6 +3,10 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding-block: 20px;
+  margin: 0px;
+}
+.container {
+  margin: 0;
 }
 
 nav ul {
@@ -25,9 +29,7 @@ nav ul li :last-child img {
 }
 
 nav ul li :first-child img {
-  width: 32px;
-  height: 32px;
+  width: 24px;
+  height: 24px;
 }
 
-.container {
-}
